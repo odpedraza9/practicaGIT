@@ -1,2 +1,2 @@
 # practicaGIT
-Mi primer repoditorio para practicar Git
+Mi primer repositorio para practicar Git
